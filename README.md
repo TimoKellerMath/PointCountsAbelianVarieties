@@ -67,9 +67,5 @@ iff all roots of `h` lie in `[−2√q, 2√q]`, and `#A(F_q) = P(1) = h(1+q)`.
 
 ## Other files
 
-- `pointcountzeta.tex` — the LaTeX source of the paper; `optimality_section_draft.tex` is a
-  standalone draft of the optimality section.
 - `PointCountZeta/` — Lean 4 / Mathlib formalization of Theorem 1.1.
-- Additional scripts in the repository root (`g6_family.py`, `verify.py`, `test.sage`, …)
-  are exploratory/auxiliary and are not referenced by the paper.
 </content>
