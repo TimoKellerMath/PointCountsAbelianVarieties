@@ -32,7 +32,7 @@ g = 3
 qs = [2,3,4,5,7,8,9,11,13,16,17,19,23,25]
 for q in qs:
   query = {
-      'g': 3,
+      'g': g,
       'q' : q
   }
   abvars = list(db.av_fq_isog.search(query))
