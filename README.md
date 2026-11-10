@@ -10,6 +10,8 @@ This repository contains the LaTeX source (`pointcountzeta.tex`), the Sage/Pytho
 scripts that implement the paper's algorithm and verify its computational claims, and
 a Lean 4 / Mathlib formalization of Theorem 1.1 in `PointCountZeta/`.
 
+For **further results** around our paper see <https://github.com/dasjoms/EffectivePointCountThresholds>.
+
 ## Requirements
 
 - **SageMath** (tested with 10.9) for the `.sage` scripts.
